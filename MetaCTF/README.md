@@ -2,7 +2,7 @@
 
 | Challenge                                                       | Category |
 | --------------------------------------------------------------- | -------- |
-| [A to Z](A_to_Z)                                                | Crypto   |
+| [A to Z](A_to_z)                                                | Crypto   |
 | [Yummy Vegetables ](Yummy_Vegetables)                           | Web      |
 | [Wrong Way on a One Way Street ](Wrong_Way_on_a_One_Way_Street) | Crypto   |
 | [Under Inspection](Under_Inspection)                            | Web      |
